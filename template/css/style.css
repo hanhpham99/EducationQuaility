@@ -59,6 +59,7 @@ input[type=password] {
     background-color: #f44336;
     border: none;
     border-radius: 5px;
+    color: white;
 }
 
 .imgcontainer {
@@ -177,7 +178,7 @@ span.psw {
 }
 
 .carousel-caption h5 {
-    font-size: 70px;
+    font-size: 65px;
     font-family: 'Courier New', Courier, monospace;
     /* font-family: cursive; */
     color: #2a73cc
@@ -206,11 +207,11 @@ span.psw {
 }
 
 .list-partner a {
-    padding: 0 10px;
+    padding: 0 18px;
 }
 
 .list-partner img {
-    max-height: 40px;
+    max-height: 50px;
     border: none;
     padding: 5px;
 }
@@ -451,4 +452,30 @@ span.psw {
 
 .footer-more-item ul li a {
     color: #373a3c;
+}
+
+
+/*page_intro*/
+
+#intro_view_pdf {
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+}
+
+.introduce {
+    margin: auto;
+}
+
+.introduce p {
+    line-height: 1.5;
+}
+
+.introduce .intro_title {
+    font-style: italic;
+}
+
+.intro_img {
+    margin: auto;
+    max-width: 50%;
 }
