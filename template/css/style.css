@@ -107,8 +107,7 @@ span.psw {
     /*  height: 60px;*/
     position: relative;
     z-index: 100;
-    /* overflow: hidden; */
-    /* background: pink; */
+    border-bottom: 1px solid #007bff4d;
 }
 
 .logo-home {
