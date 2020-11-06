@@ -479,3 +479,21 @@ span.psw {
     margin: auto;
     max-width: 50%;
 }
+
+
+/*page_quaility*/
+
+.left-info table {
+    text-align: center;
+    line-height: 1.5;
+}
+
+#name_edu,
+#paper_edu {
+    width: 30%;
+}
+
+#res_edu,
+#doc_edu {
+    width: 20%;
+}
